@@ -1,0 +1,17 @@
+.env.example
+.gitignore
+requirements.txt
+run.py
+manage.py
+backend/
+app/
+core/
+models/
+schemas/
+services/
+api/
+database/
+middleware/
+utils/
+tests/
+frontend/
